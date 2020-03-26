@@ -1,0 +1,2 @@
+rootProject.name='Notas dos alunos SwitchCase'
+include ':app'
